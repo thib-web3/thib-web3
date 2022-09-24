@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;20y engineering student \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for web3 and blockchain\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Web2 dev since 2y and web3 since 1y\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Web2 development since 2y and web3 since 1y\
 &nbsp;&nbsp;&nbsp;🌍 &nbsp;Living in France 🇫🇷
 
 <p align="center">
@@ -33,6 +33,8 @@
 &nbsp;&nbsp;&nbsp;Project managment • Entrepreneurship
    <br/> <br/>
 &nbsp;&nbsp;&nbsp;Communication • Creativity
+  <br/> <br/>
+&nbsp;&nbsp;&nbsp;Gym • Basketball
 </details>
 
 <details>
