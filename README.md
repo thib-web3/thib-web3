@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thib-web3&count_private=true&hide=stars&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thib-web3&repo=github-readme-stats&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thib-web3&repo=github-readme-stats&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **thib-web3/thib-web3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
