@@ -41,7 +41,7 @@ CV / Portfolio 👉 [thibautlehmann.dev](https://thibautlehmann.dev)
 &nbsp;&nbsp;&nbsp;Gym • Basketball
 </details>
 
-<details>
+
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
     <p align="center">
@@ -50,4 +50,4 @@ CV / Portfolio 👉 [thibautlehmann.dev](https://thibautlehmann.dev)
     <p align="center">
         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=thib-web3&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> 
     </p>
-</details
+
