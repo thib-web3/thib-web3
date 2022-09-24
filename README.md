@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Full-stack Blockchain Developer\
 &nbsp;&nbsp;&nbsp;:book: &nbsp;Learning solidity\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Passionate about blockchain and decentralization\
-&nbsp;&nbsp;&nbsp;🇫🇷 &nbsp;From France 
+&nbsp;&nbsp;&nbsp;🇫🇷 &nbsp; From France 
 
 <p align="center">
   <a href="mailto:thibaut.lehmann@hotmail.com?subject=Bonjour%20Thibaut%20Lehmann"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
