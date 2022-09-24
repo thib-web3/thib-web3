@@ -42,12 +42,12 @@ CV / Portfolio 👉 [thibautlehmann.dev](https://thibautlehmann.dev)
 </details>
 
 
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+ 
   <br/>
-    <p align="center">
+    <p align="left">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=thib-web3&theme=nightowl&count_private=true" />
     </p>
-    <p align="center">
+    <p align="left">
         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=thib-web3&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> 
     </p>
 
