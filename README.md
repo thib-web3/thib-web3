@@ -3,10 +3,10 @@
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;20y engineering student \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for web3 and blockchain.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Started web2 development two years ago and now focusing on web3 since one year.\
-&nbsp;&nbsp;&nbsp;🌍 &nbsp;Living in France 🇫🇷.
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for web3 and blockchain\
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Web2 dev since 2y and web3 since 1y\
+&nbsp;&nbsp;&nbsp;🌍 &nbsp;Living in France 🇫🇷
 
 <p align="center">
   <a href="mailto:thibaut.lehmann@hotmail.com?subject=Bonjour%20Thibaut%20Lehmann"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
