@@ -16,7 +16,7 @@
 <hr/>
 
 <details>
-  <summary><b>:computer: &nbsp;MY STACKS</b></summary>
+  <summary><b>:hammer_and_wrench &nbsp;My stacks</b></summary>
   <br/>
 &nbsp;&nbsp;&nbsp;Solidity • HardHat • IPFS • ethers.js
    <br/>
@@ -30,17 +30,9 @@
 <details>
   <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
   <br/>
-
-![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;\
-
-![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![Oracle](https://img.shields.io/badge/ORACLE-F80000.svg?&style=flat&logo=oracle&logoColor=white)&nbsp;\
-
-![Solidity](https://img.shields.io/badge/SOLIDITY-121D33.svg?&style=flat&logoColor=white)&nbsp;
-![Cryptocurrencies](https://img.shields.io/badge/CRYPTOCURRENCY-00979D.svg?&style=flat&logo=cryptocurrency&logoColor=black)&nbsp;
-![Bitcoin](https://img.shields.io/badge/BITCOIN-0769AD.svg?&style=flat&logo=bitcoin&logoColor=black)&nbsp;
-![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=white)&nbsp;
-
+&nbsp;&nbsp;&nbsp;Project managment • Entrepreneurship
+   <br/>
+&nbsp;&nbsp;&nbsp;Communication • Creativity
 </details>
 
 <details>
