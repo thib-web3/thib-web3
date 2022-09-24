@@ -17,16 +17,11 @@
 
 <details>
   <summary><b>:computer: &nbsp;MY STACKS</b></summary>
-   Hard skills
+ 
+&nbsp;&nbsp;&nbsp;Solidity • HardHat • IPFS • ethers.js
+&nbsp;&nbsp;&nbsp;web3.js • NextJs • TypeScript • JavaScript
+&nbsp;&nbsp;&nbsp;React / React native • NodeJs • Git • Figma
 
-Solidity • HardHat • IPFS • ethers.js
-
-web3.js • NextJs • TypeScript • JavaScript
-
-React / React native • NodeJs • Git • Figma
-Soft skills
-
-Project managment • Entrepren
 </details>
 
 
