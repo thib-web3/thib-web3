@@ -1,7 +1,9 @@
 ### Hi, I'm Thibaut 👋
 
-💻 thibautlehmann.dev /
+💻 thibautlehmann.dev 
+<br/>
 🛠️ Full-stack Blockchain Developer
+<br/>
 👉 Learning solidity
 
 ### :space_invader: &nbsp;About Me
