@@ -1,6 +1,6 @@
 ### Hi, I'm Thibaut 👋
 
-💻 [thibautlehmann.dev](https://thibautlehmann.dev)
+CV / Portfolio 👉 [thibautlehmann.dev](https://thibautlehmann.dev)
 <br/>
 
 
