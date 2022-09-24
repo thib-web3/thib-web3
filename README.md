@@ -1,17 +1,17 @@
-### Hi there 👋
+### Hi, I'm Thibaut 👋
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Tech Lead at [UNESP](https://unesp.br/) (São Paulo State University) \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently at engineer school and learning solidity \
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for innovation and blockchain.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching software architecture, inertial sensors, and sensor fusion.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2004 with 10+ years of experience in enterprise wide software development.\
-&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Brazil with my lovely wife :two_hearts:, Kali :service_dog:, and Maia :service_dog: .
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Started web2 development two years ago and now focusing on web3 since one year.\
+&nbsp;&nbsp;&nbsp;:world: &nbsp;Living in France 🇫🇷.
 
 <p align="center">
-  <a href="mailto:thiblehm12@gmail.com?subject=Bonjour%20Thibaut%20Lehmann"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/thibautlehmann/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:thibaut.lehmann@hotmail.com?subject=Bonjour%20Thibaut%20Lehmann"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/thibaut-lehmann/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/thib_web3"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <!--
   <a href="https://twitter.com/BrunoTacca"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
