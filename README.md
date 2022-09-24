@@ -48,6 +48,6 @@ CV / Portfolio 👉 [thibautlehmann.dev](https://thibautlehmann.dev)
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=thib-web3&theme=nightowl&count_private=true" />
     </p>
     <p align="left">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=thib-web3&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl&show_star=false" /> 
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=thib-web3&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl&show_stars=false" /> 
     </p>
 
