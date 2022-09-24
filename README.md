@@ -20,10 +20,11 @@
 <details>
   <summary><b>:computer: &nbsp;MY STACKS</b></summary>
     <h3 dir="auto">
+        <a id="user-content-block-chain-development" class="anchor" aria-hidden="true" href="#block-chain-development">
             <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
                 <path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path>
             </svg>
-        Blockchain Development
+        </a>Blockchain Development
     </h3>
     <p dir="auto">
         <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c48eb57425e1c4abe8f703ee37df68835bf6cddf402dfcb4b4d05a39a0b16315/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457468657265756d2d3343334333443f7374796c653d666f722d7468652d6261646765266c6f676f3d657468657265756d266c6f676f436f6c6f723d7768697465">
@@ -37,11 +38,11 @@
         </a>
     </p>
     <h3 dir="auto">
-       
+        <a id="user-content-front-end-development" class="anchor" aria-hidden="true" href="#front-end-development">
             <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
                 <path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path>
             </svg>
-      Front-End Development
+        </a>Front-End Development
     </h3>
     <p dir="auto">
         <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ee0baecd4d0028b4bef5488e2e2488cfa93f15e0e5516575b8d797ab953db00d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e657874646f746a73266c6f676f436f6c6f723d464646464646">
@@ -96,7 +97,6 @@
             <img src="https://camo.githubusercontent.com/15b7da9c5e50455ef7c50a5d642afad7ab8d752e575010116727c3865beb026d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a51756572792d3037363941443f7374796c653d666f722d7468652d6261646765266c6f676f3d6a7175657279266c6f676f436f6c6f723d7768697465" alt="jquery" data-canonical-src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&amp;logo=jquery&amp;logoColor=white" style="max-width: 100%;">
         </a>
     </p>
-
 </details>
 
 
