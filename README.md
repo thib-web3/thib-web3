@@ -16,7 +16,7 @@
 <hr/>
 
 <details>
-  <summary><b>:hammer_and_wrench &nbsp;My stacks</b></summary>
+  <summary><b>:hammer_and_wrench: &nbsp;My stacks</b></summary>
   <br/>
 &nbsp;&nbsp;&nbsp;Solidity • HardHat • IPFS • ethers.js
    <br/>
