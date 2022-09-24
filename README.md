@@ -20,34 +20,25 @@
 <details>
   <summary><b>:computer: &nbsp;MY STACKS</b></summary>
   <br/>
+ <h3 dir="auto">
+        <a id="user-content-block-chain-development" class="anchor" aria-hidden="true" href="#block-chain-development">
+            <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+                <path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path>
+            </svg>
+        </a>Blockchain Development
+    </h3>
+    <p dir="auto">
+        <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c48eb57425e1c4abe8f703ee37df68835bf6cddf402dfcb4b4d05a39a0b16315/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457468657265756d2d3343334333443f7374796c653d666f722d7468652d6261646765266c6f676f3d657468657265756d266c6f676f436f6c6f723d7768697465">
+            <img src="https://camo.githubusercontent.com/c48eb57425e1c4abe8f703ee37df68835bf6cddf402dfcb4b4d05a39a0b16315/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457468657265756d2d3343334333443f7374796c653d666f722d7468652d6261646765266c6f676f3d657468657265756d266c6f676f436f6c6f723d7768697465" alt="ethereum" data-canonical-src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white" style="max-width: 100%;">
+        </a>
+        <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ab2f85b153c32948a53db109682e3ec5aaa3bd7827305886da3d5c1f4c48af69/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5765625f332d4631363832323f7374796c653d666f722d7468652d6261646765266c6f676f3d776562332e6a73266c6f676f436f6c6f723d7768697465">
+            <img src="https://camo.githubusercontent.com/ab2f85b153c32948a53db109682e3ec5aaa3bd7827305886da3d5c1f4c48af69/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5765625f332d4631363832323f7374796c653d666f722d7468652d6261646765266c6f676f3d776562332e6a73266c6f676f436f6c6f723d7768697465" alt="web3" data-canonical-src="https://img.shields.io/badge/Web_3-F16822?style=for-the-badge&amp;logo=web3.js&amp;logoColor=white" style="max-width: 100%;">
+        </a>
+        <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/18748d42942783b2888a598674ee35e88ac86915f42acefdd7e5fb2e18d00ca2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536f6c69646974792d3336333633363f7374796c653d666f722d7468652d6261646765266c6f676f3d736f6c6964697479266c6f676f436f6c6f723d7768697465">
+            <img src="https://camo.githubusercontent.com/18748d42942783b2888a598674ee35e88ac86915f42acefdd7e5fb2e18d00ca2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536f6c69646974792d3336333633363f7374796c653d666f722d7468652d6261646765266c6f676f3d736f6c6964697479266c6f676f436f6c6f723d7768697465" alt="solidity" data-canonical-src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&amp;logo=solidity&amp;logoColor=white" style="max-width: 100%;">
+        </a>
+    </p>
 
-![SOLIDITY](https://img.shields.io/badge/SOLIDITY-3C3C3D.svg?&style=flat&logo=solidity&logoColor=white)&nbsp;
-![Hardhat](https://img.shields.io/badge/HARDHAT-FFF04D.svg?&style=flat&logo=hardhat&logoColor=white)&nbsp;
-![IPFS](https://img.shields.io/badge/IPFS-323330.svg?&style=flat&logo=ipfs&logoColor=%23F7DF1E)&nbsp;
-![ethers](https://img.shields.io/badge/ETHERS.JS-323330.svg?&style=flat&logo=ethers&logoColor=%23F7DF1E)&nbsp;
-![web3](https://img.shields.io/badge/WEB3.JS-323330.svg?&style=flat&logo=ethers&logoColor=%23F7DF1E)&nbsp;
-![NextJs](https://img.shields.io/badge/NEXTJS-323330.svg?&style=flat&logo=nextjs&logoColor=%23F7DF1E)&nbsp;
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;\
-![React](https://img.shields.io/badge/REACT-%23007ACC.svg?&style=flat&logo=react&logoColor=white)&nbsp;
- ![React](https://img.shields.io/badge/REACT-%23007ACC.svg?&style=flat&logo=react&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
-![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
-![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
-
-<!-- 
-Java, JSF, Primefaces, Angular, Spring, Springboot, JPA/Hibernate. 
-Flutter, GetX, BLoC, MobX.
-GitHub, GitLab, Docker, Ansible
-Kotlin, Firebase.
-Ant, Maven, Gradle, 
-VSCode, Eclipse, IntelliJ IDEA.
-HTML, CSS, JavaScript, TypeScript.
-postgresql, pgadmin, mysql, sqlite.
-TDD, BDD, DDD
-clean architecture, hexagonal architecture, onion architecture, mvc, mvvm.
-linux
--->
 </details>
 
 
