@@ -17,9 +17,11 @@
 
 <details>
   <summary><b>:computer: &nbsp;MY STACKS</b></summary>
- 
+  <br/>
 &nbsp;&nbsp;&nbsp;Solidity • HardHat • IPFS • ethers.js
+   <br/>
 &nbsp;&nbsp;&nbsp;web3.js • NextJs • TypeScript • JavaScript
+   <br/>
 &nbsp;&nbsp;&nbsp;React / React native • NodeJs • Git • Figma
 
 </details>
