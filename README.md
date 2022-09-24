@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thib-web3&count_private=true&hide=stars&show_icons=true&bg_color=50559B)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thib-web3&count_private=true&hide=stars&show_icons=true&bg_color=50559B&title_color=FF7171&text_color=2F2F31)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thib-web3&repo=github-readme-stats&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
