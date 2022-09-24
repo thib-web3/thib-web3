@@ -22,7 +22,7 @@
   <br/>
 
 ![SOLIDITY](https://img.shields.io/badge/SOLIDITY-3C3C3D.svg?&style=flat&logo=solidity&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
+![Hardhat](https://img.shields.io/badge/HARDHAT-FFF04D.svg?&style=flat&logo=hardhat&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;\
 ![React](https://img.shields.io/badge/REACT-%23007ACC.svg?&style=flat&logo=react&logoColor=white)&nbsp;
