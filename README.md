@@ -10,7 +10,6 @@
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Full-stack Blockchain Developer\
 &nbsp;&nbsp;&nbsp;:book: &nbsp;Learning solidity\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Passionate about blockchain and decentralization
-
 &nbsp;&nbsp;&nbsp;🇫🇷 &nbsp;From France 
 
 <p align="center">
