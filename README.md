@@ -21,11 +21,11 @@ CV / Portfolio 👉 [thibautlehmann.dev](https://thibautlehmann.dev)
 
 <details>
   <summary><b>:hammer_and_wrench: &nbsp;My stacks</b></summary>
-
+<br/>
 &nbsp;&nbsp;&nbsp;Solidity • HardHat • IPFS • ethers.js
-   <br/> <br/>
+   <br/> 
 &nbsp;&nbsp;&nbsp;web3.js • NextJs • TypeScript • JavaScript
-   <br/> <br/>
+   <br/> 
 &nbsp;&nbsp;&nbsp;React / React native • NodeJs • Git • Figma
 
 </details>
@@ -33,11 +33,11 @@ CV / Portfolio 👉 [thibautlehmann.dev](https://thibautlehmann.dev)
 
 <details>
   <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
-
+<br/>
 &nbsp;&nbsp;&nbsp;Project managment • Entrepreneurship
-   <br/> <br/>
+   <br/> 
 &nbsp;&nbsp;&nbsp;Communication • Creativity
-  <br/> <br/>
+  <br/> 
 &nbsp;&nbsp;&nbsp;Gym • Basketball
 </details>
 
