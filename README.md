@@ -23,6 +23,10 @@
 
 ![SOLIDITY](https://img.shields.io/badge/SOLIDITY-3C3C3D.svg?&style=flat&logo=solidity&logoColor=white)&nbsp;
 ![Hardhat](https://img.shields.io/badge/HARDHAT-FFF04D.svg?&style=flat&logo=hardhat&logoColor=white)&nbsp;
+![IPFS](https://img.shields.io/badge/IPFS-323330.svg?&style=flat&logo=ipfs&logoColor=%23F7DF1E)&nbsp;
+![ethers](https://img.shields.io/badge/ETHERS.JS-323330.svg?&style=flat&logo=ethers&logoColor=%23F7DF1E)&nbsp;
+![web3](https://img.shields.io/badge/WEB3.JS-323330.svg?&style=flat&logo=ethers&logoColor=%23F7DF1E)&nbsp;
+![NextJs](https://img.shields.io/badge/NEXTJS-323330.svg?&style=flat&logo=next&logoColor=%23F7DF1E)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;\
 ![React](https://img.shields.io/badge/REACT-%23007ACC.svg?&style=flat&logo=react&logoColor=white)&nbsp;
