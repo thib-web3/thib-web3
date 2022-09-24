@@ -17,7 +17,7 @@
 
 <details>
   <summary><b>:hammer_and_wrench: &nbsp;My stacks</b></summary>
-  <br/>
+
 &nbsp;&nbsp;&nbsp;Solidity • HardHat • IPFS • ethers.js
    <br/> <br/>
 &nbsp;&nbsp;&nbsp;web3.js • NextJs • TypeScript • JavaScript
@@ -29,7 +29,7 @@
 
 <details>
   <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
-  <br/>
+
 &nbsp;&nbsp;&nbsp;Project managment • Entrepreneurship
    <br/> <br/>
 &nbsp;&nbsp;&nbsp;Communication • Creativity
