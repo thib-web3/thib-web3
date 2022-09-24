@@ -12,7 +12,7 @@ CV / Portfolio 👉 [thibautlehmann.dev](https://thibautlehmann.dev)
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Passionate about blockchain and decentralization\
 &nbsp;&nbsp;&nbsp;🇫🇷 &nbsp; From France 
 
-<p align="center">
+<p align="left">
   <a href="mailto:thibaut.lehmann@hotmail.com?subject=Bonjour%20Thibaut%20Lehmann"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/thibaut-lehmann/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/thib_web3"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
