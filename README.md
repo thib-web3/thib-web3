@@ -1,5 +1,5 @@
 ### Hi, I'm Thibaut 👋
-
+Full-stack Blockchain Developer
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;20y engineering student \
