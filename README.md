@@ -2,16 +2,15 @@
 
 💻 thibautlehmann.dev 
 <br/>
-🛠️ Full-stack Blockchain Developer
-<br/>
-👉 Learning solidity
+
 
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;20y engineering student \
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Love for web3 and blockchain\
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Passionate with problem solving and daily routines automation\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Web2 development since 2y and web3 since 1y\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Full-stack Blockchain Developer\
+&nbsp;&nbsp;&nbsp;:pen: &nbsp;Learning solidity\
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Passionate about blockchain and decentralization\
+
 &nbsp;&nbsp;&nbsp;🇫🇷 &nbsp;From France 
 
 <p align="center">
