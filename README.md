@@ -34,7 +34,7 @@ CV / Portfolio 👉 [thibautlehmann.dev](https://thibautlehmann.dev)
 <details>
   <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
 <br/>
-&nbsp;&nbsp;&nbsp;Project managment • Entrepreneurship
+&nbsp;&nbsp;&nbsp;Project management • Entrepreneurship
    <br/> 
 &nbsp;&nbsp;&nbsp;Communication • Creativity
   <br/> 
