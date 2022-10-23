@@ -20,7 +20,7 @@ CV / Portfolio 👉 [thibautlehmann.dev](https://thibautlehmann.dev)
 <br/>
 &nbsp;&nbsp;&nbsp;Solidity • HardHat • IPFS • ethers.js
    <br/> 
-&nbsp;&nbsp;&nbsp;web3.js • NextJs • TypeScript • JavaScript
+&nbsp;&nbsp;&nbsp;web3.js • NextJs • TypeScript • Firebase
    <br/> 
 &nbsp;&nbsp;&nbsp;React / React native • NodeJs • Git • Figma
 
